@@ -13,5 +13,3 @@ partitions.csv
 There is no need to create new partitions in the Arduino IDE  
 
 Note: Releases 2.x.x of the ESP32 Hardware Libraries don't support face recognition on the ESP32 modules. The algorithm has been 'improved' and now runs too slowly on these processors.
-
-Full details on the blog: https://robotzero.one/access-control-with-face-recognition/
